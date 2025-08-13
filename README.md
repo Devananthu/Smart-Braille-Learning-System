@@ -7,7 +7,7 @@ This project aims to make Braille learning more **interactive, portable, and acc
 
 
 ## 🚀 Features
-- 🎙 **Offline Speech Recognition** — Detects specific spoken letters/words (e.g., A–Z, numbers).
+- 🎙 **Speech Recognition** — Detects specific spoken letters/words (e.g., A–Z, numbers).
 - ⠿ **Braille Pattern Generation** — Maps detected speech to the correct **6-dot Braille pattern**.
 - 🔔 **Vibration Feedback** — Activates vibration motors to simulate Braille dots.
 - 🛠 **ESP32-based Control** — Handles motor control and speech recognition processing.
