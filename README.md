@@ -5,7 +5,6 @@ The **Smart Braille Learning System** is an assistive technology project designe
 
 This project aims to make Braille learning more **interactive, portable, and accessible**, without the need for large mechanical displays.
 
----
 
 ## 🚀 Features
 - 🎙 **Offline Speech Recognition** — Detects specific spoken letters/words (e.g., A–Z, numbers).
@@ -14,7 +13,7 @@ This project aims to make Braille learning more **interactive, portable, and acc
 - 🛠 **ESP32-based Control** — Handles motor control and speech recognition processing.
 - 🎯 **Focused Word Detection** — Ignores unwanted sounds; detects only pre-trained words.
 
----
+
 
 ## 🛠 Hardware Components
 - **ESP32** (Microcontroller)
@@ -25,7 +24,7 @@ This project aims to make Braille learning more **interactive, portable, and acc
 - USB Cable (for ESP32 programming)
 - Power Supply (5V)
 
----
+
 
 ## 🧠 Software & Tools
 - **Arduino IDE** (ESP32 programming)
@@ -34,7 +33,7 @@ This project aims to make Braille learning more **interactive, portable, and acc
 - **Braille Mapping Logic** (A–Z, Numbers)
 - **Embedded C/C++** (ESP32 firmware)
 
----
+
 
 ## ⚙️ Working Principle
 1. **Audio Capture** → The INMP441 microphone captures the spoken input.
@@ -43,6 +42,5 @@ This project aims to make Braille learning more **interactive, portable, and acc
 4. **Motor Activation** → Specific vibration motors are triggered to simulate Braille dots.
 5. **User Feedback** → Learner can feel the Braille representation through vibrations.
 
----
 
-## 🔌 Circuit Diagram
+
